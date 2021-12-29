@@ -21,14 +21,3 @@ function App() {
 }
 
 export default App;
-
-/*
-1. npm install -g firebase-tools
-2. firebase login
-3. firebase init
-4. hosting
-5. BUILD
-6. single page app= yes
-7. npm run build
-8. firebase deploy
-*/
